@@ -24,3 +24,9 @@ A través de visualizaciones interactivas, este análisis facilita la toma de de
 - Las telas de algodón representan el mayor volumen de ventas.
 - Algunos productos concentran gran parte de la facturación total.
 - Se identifican tendencias de venta en determinados periodos.
+
+## Que encontraras en la carpeta:
+
+1. Un archivo Json, para tener el tema de colores y forma de los graficos
+2. El documento pbix, para que puedas ver el dashboard
+3. El data set con el que se trabajo
