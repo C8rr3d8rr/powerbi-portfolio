@@ -1,0 +1,65 @@
+{
+  "name": "Bank Pastel Analytics Theme",
+  "dataColors": [
+    "#A8C5E6",
+    "#C6DBF2",
+    "#9FBFE5",
+    "#B7E4C7",
+    "#F7D6E0",
+    "#FFE5B4",
+    "#E4C1F9",
+    "#D0F4DE"
+  ],
+  "background": "#F7F9FC",
+  "foreground": "#2C3E50",
+  "tableAccent": "#A8C5E6",
+
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [
+          {
+            "fontFamily": "Segoe UI Semibold",
+            "fontSize": 16,
+            "color": { "solid": { "color": "#2C3E50" } }
+          }
+        ],
+        "background": [
+          {
+            "color": { "solid": { "color": "#FFFFFF" } },
+            "transparency": 0
+          }
+        ]
+      }
+    },
+
+    "card": {
+      "*": {
+        "labels": [
+          {
+            "color": { "solid": { "color": "#2C3E50" } },
+            "fontSize": 34
+          }
+        ],
+        "categoryLabels": [
+          {
+            "color": { "solid": { "color": "#6C7A89" } },
+            "fontSize": 14
+          }
+        ]
+      }
+    },
+
+    "tableEx": {
+      "*": {
+        "grid": [
+          {
+            "gridVertical": true,
+            "gridHorizontal": true,
+            "outlineColor": { "solid": { "color": "#E8EDF3" } }
+          }
+        ]
+      }
+    }
+  }
+}
