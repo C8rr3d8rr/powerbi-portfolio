@@ -18,7 +18,11 @@ A través de visualizaciones interactivas, este análisis facilita la toma de de
 - Visualización de datos
 
 ## 📷 Vista del Dashboard
-(Imagen del dashboard)
+<img width="1944" height="1088" alt="image" src="https://github.com/user-attachments/assets/97b523ae-5826-4619-b5cc-d30531f13ac1" />
+<img width="1933" height="1086" alt="image" src="https://github.com/user-attachments/assets/e3bac0cc-b5db-4d93-9d92-f6a5d48c3850" />
+<img width="1928" height="1085" alt="image" src="https://github.com/user-attachments/assets/91453e23-e608-421b-a685-9ba194d8d510" />
+<img width="1943" height="1086" alt="image" src="https://github.com/user-attachments/assets/d76c05c3-7143-4b69-a337-57778bbe6aee" />
+
 
 ## 📈 Insights principales
 - Las telas de algodón representan el mayor volumen de ventas.
